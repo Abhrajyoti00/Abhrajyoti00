@@ -8,4 +8,5 @@
 </p>
 
 [![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhrajyoti00&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
