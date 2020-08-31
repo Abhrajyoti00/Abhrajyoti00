@@ -7,7 +7,6 @@
 <a href="https://twitter.com/Abhrajyoti00"><img height="30" src="https://github.com/Abhrajyoti00/Abhrajyoti00/blob/master/twitter.png"></a>
 </p>
 
-[![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhrajyoti00&repo=github-readme-stats)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact)]
+![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact)
 
