@@ -10,4 +10,6 @@
 ![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:linux.svg;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo="https://simpleicons.org/icons/linux.svg"&logoColor=white&color=2bbc8a)
