@@ -7,5 +7,5 @@
 <a href="https://twitter.com/Abhrajyoti00"><img height="30" src="https://github.com/Abhrajyoti00/Abhrajyoti00/blob/master/twitter.png"></a>
 </p>
 
-[![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
