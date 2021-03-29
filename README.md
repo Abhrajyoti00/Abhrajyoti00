@@ -7,8 +7,11 @@
 <a href="https://twitter.com/Abhrajyoti00"><img height="30" src="https://github.com/Abhrajyoti00/Abhrajyoti00/blob/master/twitter.png"></a>
 </p>
 
-![Abhrajyoti's Github Status](https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&count_private=true&theme=radical)
+![Abhrajyoti's Github Status](https://github.com/Abhrajyoti00/github-stats/blob/master/generated/overview.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact)
+
+
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:linux.svg;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=data:linux.svg;base64,<BASE64_DATA>)
