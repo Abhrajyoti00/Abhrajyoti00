@@ -1,8 +1,14 @@
 [![Header](https://github.com/Abhrajyoti00/Abhrajyoti00/blob/master/Abhrajyoti_banner.png "Abhrajyoti")](https://abhracodes.blogspot.com)
 
-<h2 align="center">Hey, I'm Abhrajyoti 👋</h2>
+<h1 align="center">
+  Hey there 👋, I'm Abhrajyoti (AJ)
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&color=00A3FF&width=600&lines=AI+Researcher+%7C+M.Tech+CSE+@+IIT+Guwahati" alt="Typing animation: AI Researcher | M.Tech CSE @ IIT Guwahati" />
+</div>
+
 <p align="center">
-  AI Researcher | M.Tech @ IIT Guwahati | Sarcasm Detection Nerd | Competitive Programmer <br>
   I do research that listens, sees, and <i>gets</i> the joke (well... sarcastically).
 </p>
 
@@ -14,6 +20,7 @@
 - 🛠️ AI AdBlocker Intern @ Samsung Research India (2024)
 - 🏗️ Hardware-aware AI (Vivado HLS + sentiment models)
 - 📊 Brain tumor segmentation, CNNs for goat breed classification, and more!
+- 📸 Loves decoding memes as much as models.
 
 ---
 
@@ -29,35 +36,44 @@
 
 ---
 
-### ⚙️ Tech Toolbox
+### 🧰 Tech Toolbox
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-🤗%20Transformers-333?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+#### 👨‍🔬 Research Stack  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />  
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />  
+  <img src="https://img.shields.io/badge/T5-00BFA6?style=for-the-badge&logo=google&logoColor=white" alt="T5" />  
+  <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=openai&logoColor=white" alt="CLIP" />  
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />  
+</p>
 
----
+#### 🛠 Dev & Infra  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />  
+  <img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />  
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  
+</p>
 
-### 📈 Stats at a Glance
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhrajyoti00&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhrajyoti00&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajyoti00&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 Highlights & Achievements
 
-- 🧠 AIR 405 (GATE 2023 – IITK), 546 (GATE 2022 – IITKGP)
-- 📜 AS Grade – M.Tech Thesis @ IIT Guwahati
-- 🥇 LeetCode Max Rating: 1744 | Codeforces: Pupil (1370) | CodeChef: 3★ (1721)
-- 📚 Certified in Deep Learning (deeplearning.ai), ML (Stanford), Python (Udemy)
+- 🧠 AIR 405 (GATE 2023 – IITK), 546 (GATE 2022 – IITKGP)  
+- 📜 AS Grade – M.Tech Thesis @ IIT Guwahati  
+- 🥇 LeetCode Max Rating: 1744 | Codeforces: Pupil (1370) | CodeChef: 3★ (1721)  
+- 📚 Certified in Deep Learning (deeplearning.ai), ML (Stanford), Python (Udemy)  
 
 ---
 
@@ -72,5 +88,9 @@
 
 ---
 
-> _“In a world full of noise, I train models that understand the punchline.”_
+### 🎯 Quote of the day
 
+> _“A mind needs books as a sword needs a whetstone, if it is to keep its edge.”_  
+> — **Tyrion Lannister**
+
+---
