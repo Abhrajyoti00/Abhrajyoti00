@@ -70,10 +70,15 @@
 
 ### 🏆 Highlights & Achievements
 
+- 📜 AS Grade – M.Tech Thesis @ IIT Guwahati
+- 🎓 **M.Tech CSE @ IIT Guwahati** — CGPA: **8.54** _(Ongoing)_  
 - 🧠 AIR 405 (GATE 2023 – IITK), 546 (GATE 2022 – IITKGP)  
-- 📜 AS Grade – M.Tech Thesis @ IIT Guwahati  
+- 🎓 **B.Tech IT @ KGEC, Kalyani** — CGPA: **9.16 / 10**  
+- 🏫 Class 12 (CBSE – Techno India Siliguri) — **93.2%**  
+- 🏫 Class 10 (ICSE – Don Bosco Siliguri) — **95.4%**  
 - 🥇 LeetCode Max Rating: 1744 | Codeforces: Pupil (1370) | CodeChef: 3★ (1721)  
 - 📚 Certified in Deep Learning (deeplearning.ai), ML (Stanford), Python (Udemy)  
+
 
 ---
 
